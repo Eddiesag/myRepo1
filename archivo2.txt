@@ -1,1 +1,2 @@
 probando texto del archivo 2
+añadiendole una nueva linea de prueba
